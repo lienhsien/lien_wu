@@ -8,6 +8,6 @@ int main()
     cout << "hello world!" << endl;
     cout << "is it work?" << endl;
     cout << "wu's computer is working!" << endl;
-    cout << "dsvklnglksdlgggggggggggggggggggggggggggggggggggggggggggg" << endl;
+    cout << "dsvklnglksdlggggggggggggggggggdjghjkfghjfhdgjhdjkhgggggggggggggggggggggggggg" << endl;
     return 0;
 }
